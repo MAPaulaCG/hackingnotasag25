@@ -48,9 +48,149 @@
               "icon": "lucide-file",
               "title": "Plantilla"
             }
+          },
+          {
+            "id": "fd784f823fd65f7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plantilla.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Plantilla"
+            }
+          },
+          {
+            "id": "22bd94ec09b7a603",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2Warm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2Warm"
+            }
+          },
+          {
+            "id": "5685d69797940793",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Warmed Up.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Warmed Up"
+            }
+          },
+          {
+            "id": "f462fd50abd08cf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bases.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bases"
+            }
+          },
+          {
+            "id": "b25127f77402721d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sin título"
+            }
+          },
+          {
+            "id": "f70dd1fbdb4a1efd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obedient Cat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Obedient Cat"
+            }
+          },
+          {
+            "id": "9bfe3a7f5db2e161",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "what's a net cat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "what's a net cat"
+            }
+          },
+          {
+            "id": "92dc5eddaaf4c5c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plumbing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Plumbing"
+            }
+          },
+          {
+            "id": "eb9c82f33672ea89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Glitch Cat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Glitch Cat"
+            }
+          },
+          {
+            "id": "5b8a17d46ce8a8f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nice netcat....md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nice netcat..."
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -69,7 +209,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -198,10 +338,20 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "0b931f1700104d94",
+  "active": "5b8a17d46ce8a8f8",
   "lastOpenFiles": [
-    "README.md",
+    "Glitch Cat.md",
+    "Nice netcat....md",
+    "Plumbing.md",
+    "what's a net cat.md",
     "Plantilla.md",
+    "Obedient Cat.md",
+    "First Grep.md",
+    "Bases.md",
+    "Warmed Up.md",
+    "2Warm.md",
+    "Lets Warm Up.md",
+    "README.md",
     "cree un enlace.md",
     "Bienvenido.md"
   ]
