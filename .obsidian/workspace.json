@@ -4,333 +4,151 @@
     "type": "split",
     "children": [
       {
-        "id": "ac26c15ee86ba728",
+        "id": "8fd55adb4a3b439e",
         "type": "tabs",
         "children": [
           {
-            "id": "a19856f7cead6fa1",
+            "id": "39a27a650dc5ae85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bienvenido.md",
+                "file": "Super SSH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bienvenido"
+              "title": "Super SSH"
             }
           },
           {
-            "id": "569433a551864b51",
+            "id": "ddaf9e705387d19a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "runme.py.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "runme.py"
             }
           },
           {
-            "id": "0b931f1700104d94",
+            "id": "a7c8bf1993fa9c85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plantilla.md",
+                "file": "Codebook.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plantilla"
+              "title": "Codebook"
             }
           },
           {
-            "id": "fd784f823fd65f7e",
+            "id": "d7a094b28e7e6a44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plantilla.md",
+                "file": "convertme.py.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plantilla"
+              "title": "convertme.py"
             }
           },
           {
-            "id": "22bd94ec09b7a603",
+            "id": "585a1c245f3999d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2Warm.md",
+                "file": "fixme1.py.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2Warm"
+              "title": "fixme1.py"
             }
           },
           {
-            "id": "5685d69797940793",
+            "id": "65f0664de27bc430",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Warmed Up.md",
+                "file": "fixme2.py.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Warmed Up"
+              "title": "fixme2.py"
             }
           },
           {
-            "id": "f462fd50abd08cf9",
+            "id": "45bce84b377e63d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bases.md",
+                "file": "PW Crack 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bases"
+              "title": "PW Crack 1"
             }
           },
           {
-            "id": "b25127f77402721d",
+            "id": "3e08e157b65c27f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sin título.md",
+                "file": "PW Crack 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sin título"
+              "title": "PW Crack 2"
             }
           },
           {
-            "id": "f70dd1fbdb4a1efd",
+            "id": "f3b2516ac5b15207",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obedient Cat.md",
+                "file": "PW Crack 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obedient Cat"
+              "title": "PW Crack 3"
             }
           },
           {
-            "id": "9bfe3a7f5db2e161",
+            "id": "33fe2a4d348fef42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "what's a net cat.md",
+                "file": "PW Crack 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "what's a net cat"
-            }
-          },
-          {
-            "id": "92dc5eddaaf4c5c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plumbing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Plumbing"
-            }
-          },
-          {
-            "id": "eb9c82f33672ea89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glitch Cat.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Glitch Cat"
-            }
-          },
-          {
-            "id": "5b8a17d46ce8a8f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nice netcat....md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nice netcat..."
-            }
-          },
-          {
-            "id": "7fbccb33d06b9bd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Based.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Based"
-            }
-          },
-          {
-            "id": "79b9671c8b98f2c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "strings it.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "strings it"
-            }
-          },
-          {
-            "id": "f3f7c0dd18ee8ad2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wave a flag.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wave a flag"
-            }
-          },
-          {
-            "id": "ae9a3215e676710d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Static ain't always noise.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Static ain't always noise"
-            }
-          },
-          {
-            "id": "a6be8fb11db4a804",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "useless.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "useless"
-            }
-          },
-          {
-            "id": "2db547ba391d5906",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tab, Tab, Attack.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tab, Tab, Attack"
-            }
-          },
-          {
-            "id": "461f4b1c2e66f545",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magikarp Ground Mission.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Magikarp Ground Mission"
-            }
-          },
-          {
-            "id": "ff3373d7d78d6fbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "repetitions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "repetitions"
-            }
-          },
-          {
-            "id": "862cde91d61622ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plantilla.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Plantilla"
-            }
-          },
-          {
-            "id": "5fdbb76c1a803539",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "First Find.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "First Find"
+              "title": "PW Crack 1"
             }
           }
         ],
-        "currentTab": 22
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -478,16 +296,26 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "5fdbb76c1a803539",
+  "active": "33fe2a4d348fef42",
   "lastOpenFiles": [
+    "Serpentine.md",
+    "PW Crack 3.md",
+    "PW Crack 2.md",
+    "PW Crack 1.md",
+    "fixme2.py.md",
+    "fixme1.py.md",
+    "convertme.py.md",
+    "Codebook.md",
+    "runme.py.md",
+    "Super SSH.md",
     "Plantilla.md",
-    "First Find.md",
     "Big Zip.md",
+    "Static ain't always noise.md",
+    "First Find.md",
     "repetitions.md",
     "Magikarp Ground Mission.md",
     "Tab, Tab, Attack.md",
     "useless.md",
-    "Static ain't always noise.md",
     "Wave a flag.md",
     "strings it.md",
     "Based.md",
@@ -495,14 +323,6 @@
     "Glitch Cat.md",
     "Plumbing.md",
     "what's a net cat.md",
-    "Obedient Cat.md",
-    "First Grep.md",
-    "Bases.md",
-    "Warmed Up.md",
-    "2Warm.md",
-    "Lets Warm Up.md",
-    "README.md",
-    "cree un enlace.md",
-    "Bienvenido.md"
+    "Obedient Cat.md"
   ]
 }
