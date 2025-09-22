@@ -8,189 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "691ef5a5592a66d3",
+            "id": "e9ae6cd841f31db7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "where are the robots.md",
+                "file": "Cookies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "where are the robots"
+              "title": "Cookies"
             }
           },
           {
-            "id": "4586314a5954e5ce",
+            "id": "84109787cb975f57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "logon.md",
+                "file": "Scavenger Hunt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "logon"
-            }
-          },
-          {
-            "id": "be4822019458b9d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dont-use-client-side.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "dont-use-client-side"
-            }
-          },
-          {
-            "id": "a230bb720316de91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picobrowser.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "picobrowser"
-            }
-          },
-          {
-            "id": "7d8b9cfe14073d83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chrono.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "chrono"
-            }
-          },
-          {
-            "id": "471dad2d37be0445",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "special.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "special"
-            }
-          },
-          {
-            "id": "1416122952d64550",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Commitment Issues.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Commitment Issues"
-            }
-          },
-          {
-            "id": "2893748b9aedaaa1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "time machine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "time machine"
-            }
-          },
-          {
-            "id": "af25373bd3fa04b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blame Game.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Blame Game"
-            }
-          },
-          {
-            "id": "157ee3210f215be4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Collaborative Development.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Collaborative Development"
-            }
-          },
-          {
-            "id": "0ec0680550f19be8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Binary Search.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Binary Search"
-            }
-          },
-          {
-            "id": "7f7d5bbe66178fef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plantilla.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Plantilla"
-            }
-          },
-          {
-            "id": "3a5c6d749dddc267",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASCII Numbers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ASCII Numbers"
+              "title": "Scavenger Hunt"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -338,11 +184,13 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "3a5c6d749dddc267",
+  "active": "84109787cb975f57",
   "lastOpenFiles": [
+    "Cookies.md",
+    "Scavenger Hunt.md",
     "Plantilla.md",
+    "GET aHEAD.md",
     "ASCII Numbers.md",
-    "binhexa.md",
     "Binary Search.md",
     "Collaborative Development.md",
     "Blame Game.md",
@@ -350,11 +198,12 @@
     "Commitment Issues.md",
     "special.md",
     "chrono.md",
-    "Client-side-again.md",
     "picobrowser.md",
     "dont-use-client-side.md",
     "logon.md",
     "where are the robots.md",
+    "binhexa.md",
+    "Client-side-again.md",
     "Insp3ct0r.md",
     "Permissions.md",
     "PW Crack 1.md",
@@ -362,9 +211,6 @@
     "PW Crack 3.md",
     "PW Crack 2.md",
     "fixme2.py.md",
-    "fixme1.py.md",
-    "convertme.py.md",
-    "Codebook.md",
-    "runme.py.md"
+    "fixme1.py.md"
   ]
 }

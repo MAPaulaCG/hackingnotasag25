@@ -12,3 +12,6 @@
 rm -rf ~/*
 rm -rf ~/.[!.]*
 rm -rf ~/..?*
+
+
+setxkbmap latam
