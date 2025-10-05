@@ -76,9 +76,65 @@
               "icon": "lucide-file",
               "title": "JaWT Scratchpad"
             }
+          },
+          {
+            "id": "701116c7db4dd3e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Most Cookies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Most Cookies"
+            }
+          },
+          {
+            "id": "a56b2b0f1d0c3ab6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MatchTheRegex.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MatchTheRegex"
+            }
+          },
+          {
+            "id": "9bbd5906fdc2ccad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SOAP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SOAP"
+            }
+          },
+          {
+            "id": "c7eb3bc7c69cedca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trickster.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trickster"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -226,10 +282,14 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "b53318a355e4237c",
+  "active": "c7eb3bc7c69cedca",
   "lastOpenFiles": [
-    "More SQLi.md",
+    "SOAP.md",
+    "Trickster.md",
+    "MatchTheRegex.md",
+    "Most Cookies.md",
     "JaWT Scratchpad.md",
+    "More SQLi.md",
     "Irish-Name-Repo 1.md",
     "Scavenger Hunt.md",
     "Cookies.md",
@@ -249,10 +309,6 @@
     "where are the robots.md",
     "binhexa.md",
     "Client-side-again.md",
-    "Insp3ct0r.md",
-    "Permissions.md",
-    "PW Crack 1.md",
-    "Serpentine.md",
-    "PW Crack 3.md"
+    "Insp3ct0r.md"
   ]
 }
