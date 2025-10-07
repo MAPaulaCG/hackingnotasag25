@@ -202,9 +202,149 @@
               "icon": "lucide-file",
               "title": "What Lies Within"
             }
+          },
+          {
+            "id": "ec434108b73462a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Includes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Includes"
+            }
+          },
+          {
+            "id": "57e534e0c7c9efc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inspect HTML.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inspect HTML"
+            }
+          },
+          {
+            "id": "00f33c031956be67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IntroToBurp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IntroToBurp"
+            }
+          },
+          {
+            "id": "e7e1f6d3f07723a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Local Authority.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Local Authority"
+            }
+          },
+          {
+            "id": "72796abe2c3cb2e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unminify.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unminify"
+            }
+          },
+          {
+            "id": "636973ffacab3287",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WebDecode.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WebDecode"
+            }
+          },
+          {
+            "id": "49c141de9b166df5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Power Cookie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Power Cookie"
+            }
+          },
+          {
+            "id": "5b4e87e3e4570e7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roboto Sans.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Roboto Sans"
+            }
+          },
+          {
+            "id": "0422f90679cc3a4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Secrets.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Secrets"
+            }
+          },
+          {
+            "id": "f75f875e667682fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQLiLite.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SQLiLite"
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -352,10 +492,20 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "8f279bb578368e78",
+  "active": "f75f875e667682fd",
   "lastOpenFiles": [
-    "extensions.md",
+    "Secrets.md",
+    "SQLiLite.md",
+    "Roboto Sans.md",
+    "Power Cookie.md",
+    "WebDecode.md",
+    "Unminify.md",
+    "Local Authority.md",
+    "IntroToBurp.md",
+    "Inspect HTML.md",
+    "Includes.md",
     "What Lies Within.md",
+    "extensions.md",
     "shark on wire 1.md",
     "So Meta.md",
     "Glory of the Garden.md",
@@ -369,16 +519,6 @@
     "Scavenger Hunt.md",
     "Cookies.md",
     "Plantilla.md",
-    "GET aHEAD.md",
-    "ASCII Numbers.md",
-    "Binary Search.md",
-    "Collaborative Development.md",
-    "Blame Game.md",
-    "time machine.md",
-    "Commitment Issues.md",
-    "special.md",
-    "chrono.md",
-    "picobrowser.md",
-    "dont-use-client-side.md"
+    "GET aHEAD.md"
   ]
 }
