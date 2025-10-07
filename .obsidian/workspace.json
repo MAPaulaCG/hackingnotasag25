@@ -342,9 +342,79 @@
               "icon": "lucide-file",
               "title": "SQLiLite"
             }
+          },
+          {
+            "id": "9901bd8b491f5a36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "c0rrupt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "c0rrupt"
+            }
+          },
+          {
+            "id": "4337e262a2055d18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "like1000.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "like1000"
+            }
+          },
+          {
+            "id": "2a3d0fba34377c97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "m00nwalk.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "m00nwalk"
+            }
+          },
+          {
+            "id": "3d19baef1d06d7bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shark on wire 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "shark on wire 2"
+            }
+          },
+          {
+            "id": "e7a48c503664ce9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WhitePages.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WhitePages"
+            }
           }
         ],
-        "currentTab": 23
+        "currentTab": 28
       }
     ],
     "direction": "vertical"
@@ -492,10 +562,15 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "f75f875e667682fd",
+  "active": "e7a48c503664ce9f",
   "lastOpenFiles": [
-    "Secrets.md",
+    "shark on wire 2.md",
+    "WhitePages.md",
+    "m00nwalk.md",
+    "like1000.md",
+    "c0rrupt.md",
     "SQLiLite.md",
+    "Secrets.md",
     "Roboto Sans.md",
     "Power Cookie.md",
     "WebDecode.md",
@@ -514,11 +589,6 @@
     "MatchTheRegex.md",
     "Most Cookies.md",
     "JaWT Scratchpad.md",
-    "More SQLi.md",
-    "Irish-Name-Repo 1.md",
-    "Scavenger Hunt.md",
-    "Cookies.md",
-    "Plantilla.md",
-    "GET aHEAD.md"
+    "More SQLi.md"
   ]
 }
