@@ -8,413 +8,91 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e9ae6cd841f31db7",
+            "id": "f1993ef47beb1dd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cookies.md",
+                "file": "flag_shop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cookies"
+              "title": "flag_shop"
             }
           },
           {
-            "id": "84109787cb975f57",
+            "id": "fed8cdbdb6b71d4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scavenger Hunt.md",
+                "file": "Primer Parcial/Parte1/SansAlpha.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scavenger Hunt"
+              "title": "SansAlpha"
             }
           },
           {
-            "id": "c203b1a47bf7eaed",
+            "id": "ab26583565217aee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Irish-Name-Repo 1.md",
+                "file": "Primer Parcial/Parte1/Rust fixme 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Irish-Name-Repo 1"
+              "title": "Rust fixme 2"
             }
           },
           {
-            "id": "072c0b312d7aa2d7",
+            "id": "cf557d224281647d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "More SQLi.md",
+                "file": "Primer Parcial/Parte1/Rust fixme 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "More SQLi"
+              "title": "Rust fixme 3"
             }
           },
           {
-            "id": "b53318a355e4237c",
+            "id": "e3dd6cb103209297",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JaWT Scratchpad.md",
+                "file": "Primer Parcial/Parte2/SQL Direct.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JaWT Scratchpad"
+              "title": "SQL Direct"
             }
           },
           {
-            "id": "701116c7db4dd3e5",
+            "id": "2e5e02f8df7c6961",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Most Cookies.md",
+                "file": "Primer Parcial/Parte2/SSTI2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Most Cookies"
-            }
-          },
-          {
-            "id": "a56b2b0f1d0c3ab6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MatchTheRegex.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MatchTheRegex"
-            }
-          },
-          {
-            "id": "9bbd5906fdc2ccad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SOAP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SOAP"
-            }
-          },
-          {
-            "id": "c7eb3bc7c69cedca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trickster.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Trickster"
-            }
-          },
-          {
-            "id": "3c34d0152ce8c48d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glory of the Garden.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Glory of the Garden"
-            }
-          },
-          {
-            "id": "7e66c26a74b7a08a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "So Meta.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "So Meta"
-            }
-          },
-          {
-            "id": "f56e3aff8dff4091",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "shark on wire 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "shark on wire 1"
-            }
-          },
-          {
-            "id": "a3d50b1d5806f7fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "extensions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "extensions"
-            }
-          },
-          {
-            "id": "8f279bb578368e78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "What Lies Within.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "What Lies Within"
-            }
-          },
-          {
-            "id": "ec434108b73462a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Includes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Includes"
-            }
-          },
-          {
-            "id": "57e534e0c7c9efc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inspect HTML.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Inspect HTML"
-            }
-          },
-          {
-            "id": "00f33c031956be67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IntroToBurp.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IntroToBurp"
-            }
-          },
-          {
-            "id": "e7e1f6d3f07723a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Local Authority.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Local Authority"
-            }
-          },
-          {
-            "id": "72796abe2c3cb2e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unminify.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unminify"
-            }
-          },
-          {
-            "id": "636973ffacab3287",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WebDecode.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "WebDecode"
-            }
-          },
-          {
-            "id": "49c141de9b166df5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Power Cookie.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Power Cookie"
-            }
-          },
-          {
-            "id": "5b4e87e3e4570e7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roboto Sans.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Roboto Sans"
-            }
-          },
-          {
-            "id": "0422f90679cc3a4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Secrets.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Secrets"
-            }
-          },
-          {
-            "id": "f75f875e667682fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQLiLite.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SQLiLite"
-            }
-          },
-          {
-            "id": "9901bd8b491f5a36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "c0rrupt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "c0rrupt"
-            }
-          },
-          {
-            "id": "4337e262a2055d18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "like1000.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "like1000"
-            }
-          },
-          {
-            "id": "2a3d0fba34377c97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "m00nwalk.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "m00nwalk"
-            }
-          },
-          {
-            "id": "3d19baef1d06d7bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "shark on wire 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "shark on wire 2"
-            }
-          },
-          {
-            "id": "e7a48c503664ce9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WhitePages.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "WhitePages"
+              "title": "SSTI2"
             }
           }
         ],
-        "currentTab": 28
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -562,33 +240,43 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "e7a48c503664ce9f",
+  "active": "3dd2c993e62b30b5",
   "lastOpenFiles": [
-    "shark on wire 2.md",
-    "WhitePages.md",
-    "m00nwalk.md",
-    "like1000.md",
-    "c0rrupt.md",
-    "SQLiLite.md",
-    "Secrets.md",
-    "Roboto Sans.md",
-    "Power Cookie.md",
-    "WebDecode.md",
-    "Unminify.md",
-    "Local Authority.md",
-    "IntroToBurp.md",
-    "Inspect HTML.md",
-    "Includes.md",
-    "What Lies Within.md",
-    "extensions.md",
-    "shark on wire 1.md",
-    "So Meta.md",
-    "Glory of the Garden.md",
-    "Trickster.md",
-    "SOAP.md",
-    "MatchTheRegex.md",
-    "Most Cookies.md",
-    "JaWT Scratchpad.md",
-    "More SQLi.md"
+    "Primer Parcial/Parte2/SQL Direct.md",
+    "Primer Parcial/Parte2/SSTI2.md",
+    "dont-you-love-banners.md",
+    "Primer Parcial/Parte1/Rust fixme 3.md",
+    "Primer Parcial/Parte1/Rust fixme 2.md",
+    "Primer Parcial/Parte1/SansAlpha.md",
+    "Primer Parcial/Bookmarklet.md",
+    "Primer Parcial/Parte2/SSTI1.md",
+    "Primer Parcial/Parte2/Cookie Monster Secret Recipe.md",
+    "Primer Parcial/Parte2/Bookmarklet.md",
+    "Primer Parcial/flag_shop.md",
+    "Primer Parcial/Parte1/flag_shop.md",
+    "Primer Parcial/Parte2",
+    "Primer Parcial/Nueva carpeta",
+    "Primer Parcial/Rust fixme 1.md",
+    "Primer Parcial/Parte1/Rust fixme 1.md",
+    "Primer Parcial/Python Wrangling.md",
+    "Primer Parcial/Parte1/Python Wrangling.md",
+    "Primer Parcial/HashingJobApp.md",
+    "Primer Parcial/Parte1/HashingJobApp.md",
+    "Primer Parcial/FANTASY CTF.md",
+    "Primer Parcial/Parte1/FANTASY CTF.md",
+    "Primer Parcial/Parte1",
+    "Primer Parcial.zip",
+    "Primer Parcial/Cookie Monster Secret Recipe.md",
+    "Primer Parcial/SSTI1.md",
+    "SSTI1.md",
+    "Primer Parcial",
+    "Nueva carpeta/Primer Parcial - Parte 1",
+    "Nueva carpeta/Nueva carpeta",
+    "Nueva carpeta",
+    "Cookie Monster Secret Recipe.md",
+    "Bookmarklet.md",
+    "flag_shop.md",
+    "Sin título.base",
+    "Sin título 1.base"
   ]
 }
