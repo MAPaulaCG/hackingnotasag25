@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crypto 3/b00tl3gRSA3.md",
+                "file": "Tarea4-Crypto/Vigenere.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "b00tl3gRSA3"
+              "title": "Vigenere"
             }
           }
         ],
@@ -200,8 +200,18 @@
   },
   "active": "4e278df4dcb24e61",
   "lastOpenFiles": [
-    "Crypto 3/b00tl3gRSA2.md",
+    "Tarea4-Crypto/substitution2.md",
+    "Tarea4-Crypto/Vigenere.md",
+    "Tarea4-Crypto/substitution1.md",
+    "Tarea4-Crypto/substitution0.md",
+    "Tarea4-Crypto/rail-fence.md",
+    "Tarea4-Crypto/morse-code.md",
+    "Tarea4-Crypto/EVEN RSA CAN BE BROKEN.md",
+    "Tarea4-Crypto/credstuff.md",
+    "Tarea4-Crypto/Crack the Power.md",
     "Crypto 3/b00tl3gRSA3.md",
+    "Tarea4-Crypto",
+    "Crypto 3/b00tl3gRSA2.md",
     "Crypto 3/Mind your Ps and Qs.md",
     "Crypto 3/miniRSA.md",
     "Crypto 2/rsa-pop-quiz.md",
@@ -220,21 +230,11 @@
     "Crypto 1",
     "Tarea3-Forensic/Scan Surprise.md",
     "Tarea3-Forensic/Secret of the Polyglot.md",
-    "Tarea3-Forensic/RED.md",
-    "Tarea3-Forensic/Ph4nt0m 1ntrud3r.md",
-    "Tarea3-Forensic/flags are stepic.md",
-    "Tarea3-Forensic/CanYouSee.md",
-    "Tarea3-Forensic/hideme.md",
-    "Tarea3-Forensic/St3g0.md",
-    "Tarea3-Forensic/information.md",
     "Tarea3-Forensic",
-    "Forensic 4/Sleuthkit Apprentice.md",
-    "Forensic 4/Sleuthkit Intro.md",
     "Forensic 4",
     "Forensic - Parte 3",
     "Primer Parcial/Parte2",
     "Primer Parcial/Nueva carpeta",
-    "Primer Parcial/Parte1",
-    "Primer Parcial.zip"
+    "Primer Parcial/Parte1"
   ]
 }
